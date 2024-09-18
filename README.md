@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is **Ruben Bosma**, and I'm an aspiring Software Engineer currently in my third year as a Computer Science student. I'm from South Africa. You can find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/ruben-bosma/)
 
@@ -8,6 +8,12 @@ My name is **Ruben Bosma**, and I'm an aspiring Software Engineer currently in m
 - **Programming Languages:** Java, C, C#, Python, Dart, Matlab, MySQL, HTML, CSS
 - **Frameworks & Tools:** Git, Flutter, Firebase, Unity, CI/CD Pipelines, Docker, Linux
 - **Methodologies:** Agile Workflow – Sprints, Specification Design, Agile Git Workflow
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruben-bosma&show_icons=true&theme=radical)
+
+## 🛠️ Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-bosma&layout=compact&theme=dracula&langs_count=8)
 
 <!-- Icons without padding -->
 <!-- You can add more social media icons similarly -->
