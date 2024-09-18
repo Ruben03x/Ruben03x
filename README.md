@@ -11,7 +11,7 @@ My name is Ruben Bosma and I'm an aspiring Software Engineer and currently a thi
 
 <!-- icons without padding -->
 
-[1.2] https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2] [https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)]
 
 
 <!-- links to your social media accounts -->
