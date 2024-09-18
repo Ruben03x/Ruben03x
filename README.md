@@ -2,21 +2,15 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Ruben Bosma and I'm an aspiring Software Engineer and currently a third year computer science student. I'm from South Africa. You can find me on [![![LinkedIn][1.2]][1].
+My name is **Ruben Bosma**, and I'm an aspiring Software Engineer currently in my third year as a Computer Science student. I'm from South Africa. You can find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/ruben-bosma/)
 
 ## 🔧 Technologies & Tools
--  Java, C, C#, Python, Dart, Matlab, MySQL, HTML, CSS.
--  Git, Flutter, Firebase, Unity, CI/CD Pipelines, Docker, Linux.
--  Agile workflow – Sprints, Specification design, Agile Git workflow.
+- **Programming Languages:** Java, C, C#, Python, Dart, Matlab, MySQL, HTML, CSS
+- **Frameworks & Tools:** Git, Flutter, Firebase, Unity, CI/CD Pipelines, Docker, Linux
+- **Methodologies:** Agile Workflow – Sprints, Specification Design, Agile Git Workflow
 
-<!-- icons without padding -->
-
-[1.2] [https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)]
-
-
-<!-- links to your social media accounts -->
-[1]: [https://www.linkedin.com/in/ruben-bosma/]
-
+<!-- Icons without padding -->
+<!-- You can add more social media icons similarly -->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
@@ -25,5 +19,3 @@ My name is Ruben Bosma and I'm an aspiring Software Engineer and currently a thi
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-<!--
