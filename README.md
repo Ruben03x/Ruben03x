@@ -9,9 +9,6 @@ My name is **Ruben Bosma**, and I'm an aspiring Software Engineer currently in m
 - **Frameworks & Tools:** Git, Flutter, Firebase, Unity, CI/CD Pipelines, Docker, Linux
 - **Methodologies:** Agile Workflow – Sprints, Specification Design, Agile Git Workflow
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruben03x&show_icons=true&theme=radical)
-
 ## 🛠️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben03x&layout=compact&theme=dracula&langs_count=8)
 
