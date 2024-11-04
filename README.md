@@ -10,7 +10,7 @@ My name is **Ruben Bosma**, and I'm an aspiring Software Engineer currently in m
 - **Methodologies:** Agile Workflow – Sprints, Specification Design, Agile Git Workflow
 
 ## 🛠️ Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben03x&layout=compact&theme=dracula&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben03x&layout=compact&theme=dracula&langs_count=10)
 
 <!-- Icons without padding -->
 <!-- You can add more social media icons similarly -->
