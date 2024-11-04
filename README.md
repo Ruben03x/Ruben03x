@@ -5,8 +5,8 @@
 My name is **Ruben Bosma**, and I'm an aspiring Software Engineer currently in my third year as a Computer Science student. I'm from South Africa. You can find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/ruben-bosma/)
 
 ## 🔧 Technologies & Tools
-- **Programming Languages:** Java, C, C#, Python, Dart, Matlab, MySQL, HTML, CSS
-- **Frameworks & Tools:** Git, Flutter, Firebase, Unity, CI/CD Pipelines, Docker, Linux
+- **Programming Languages:** Java, C, C#, Python, Dart, Matlab, MySQL, HTML, CSS, Javascript
+- **Frameworks & Tools:** Git, Flutter, Firebase, Unity, CI/CD Pipelines, Docker, Linux, NodeJS
 - **Methodologies:** Agile Workflow – Sprints, Specification Design, Agile Git Workflow
 
 ## 🛠️ Top Languages
