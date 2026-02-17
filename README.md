@@ -2,12 +2,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is **Ruben Bosma**, and I'm an aspiring Software Engineer, I have obtained my BSc in Computer Science from Stellenbosch University and currently doing my Honours at the same institution. I'm from South Africa. You can find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/ruben-bosma/)
-
-## 🔧 Technologies & Tools
-- **Programming Languages:** Java, C, C#, Python, Dart, Matlab, MySQL, HTML, CSS, Javascript
-- **Frameworks & Tools:** Git, Flutter, Firebase, Unity, CI/CD Pipelines, Docker, Linux, NodeJS
-- **Methodologies:** Agile Workflow – Sprints, Specification Design, Agile Git Workflow
+My name is **Ruben Bosma**, and I'm a Fullstack Software Developer at StraTech, I have obtained my BSc and Bsc Honours in Computer Science from Stellenbosch University. I'm from South Africa. You can find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/ruben-bosma/)
 
 ## 🛠️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruben03x&layout=compact&theme=dracula&langs_count=10)
