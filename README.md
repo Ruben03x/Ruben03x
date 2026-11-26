@@ -2,4 +2,4 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is **Ruben Bosma**, and I'm a Fullstack Software Developer at StraTech, I have obtained my BSc and Bsc Honours in Computer Science from Stellenbosch University. I'm from South Africa. You can find me on [![LinkedIn](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/ruben-bosma/)
+My name is **Ruben Bosma**, and I'm a Fullstack Software Developer at StraTech, I have obtained my BSc and Bsc Honours in Computer Science from Stellenbosch University. I'm from South Africa.
